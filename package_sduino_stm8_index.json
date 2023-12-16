@@ -33,7 +33,7 @@
                             "packager": "sduino"
                         }
                     ],
-                    "url": "https://github.com/akashkapashia/stm8_arduino/releases/tag/v0.5/v0.5.zip",
+                    "url": "https://github.com/akashkapashia/stm8_arduino/releases/download/v0.5/v0.5.zip",
                     "archiveFileName": "v0.5.zip",
                     "checksum": "SHA-256:16a8083583c704b18921cf5f8ededde925d313b4af6d9d64fa95ae2255e2bbf5",
                     "size": "2263740"
