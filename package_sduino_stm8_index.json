@@ -12,7 +12,7 @@
                 {
                     "name": "Sduino STM8 plain C core (non-C++)",
                     "architecture": "stm8",
-                    "version": "0.4.4",
+                    "version": "0.5.4",
                     "category": "Contributed",
                     "boards": [
                         {"name": "STM8S103F3 Breakout Board"},
